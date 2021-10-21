@@ -1,5 +1,5 @@
 {
-    "name": "NITOK_R3_DELIVERY_microbit_Blue tooth",
+    "name": "NITOK_R3_DELIVERY_microbit_Blue tooth_TX",
     "description": "",
     "dependencies": {
         "core": "*",
